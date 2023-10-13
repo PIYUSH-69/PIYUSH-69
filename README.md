@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm PIYUSH DALVI</h1>
 <h3 align="center">ANDROID DEVELOPER</h3>
-(img align="right" alt="Coding" width="400" src="https://media.tenor.com/G0dP5NM52YwAAAAC/roof-piece-luffy.gif")
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/G0dP5NM52YwAAAAC/roof-piece-luffy.gif">
 
 
 
