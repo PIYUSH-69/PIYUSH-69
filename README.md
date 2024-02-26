@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Android development**
 
-- 📫 How to reach me -PLEASE DONT
+- 📫 How to reach me - Linkedin 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
