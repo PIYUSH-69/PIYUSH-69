@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm PIYUSH DALVI</h1>
-<h3 align="center">ANDROID DEVELOPER</h3>
+<h3 align="center">ANDROID DEVELOPER||UI/UX DESIGNER</h3>
 <img align="right" alt="Coding" height="300" width="300" src="https://raw.githubusercontent.com/PIYUSH-69/PIYUSH-69/main/XOsX.gif">
 
 
