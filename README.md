@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm PIYUSH DALVI</h1>
 <h3 align="center">ANDROID DEVELOPER</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fsagaratechnology.com%2Fblog%2Fsome-skills-and-responsibilities-to-become-an-android-developer%2F&psig=AOvVaw3s9iTrjcFXrlShCPq4CFHA&ust=1710489091803000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJCFjsei84QDFQAAAAAdAAAAABBI">
+<img align="right" alt="Coding" width="400" src="https://sagaratechnology.com/blog/wp-content/uploads/2022/03/service2.gif">
 
 
 
