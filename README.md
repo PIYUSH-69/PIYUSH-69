@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm PIYUSH DALVI</h1>
 <h3 align="center">ANDROID DEVELOPER || UI/UX DESIGNER</h3>
-<img align="right" alt="Coding" height="300" width="300" src="https://raw.githubusercontent.com/PIYUSH-69/PIYUSH-69/main/XOsX.gif">
+<img align="right" alt="Coding" height="300" width="300" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnhwdzNmMmw1YXFlYWpxM2lid3liOGFmNDJ5bjdrZDAxNWhxcmEzNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/wTpkLqAZf3NFcgzQ4J/giphy_s.gif">
 
 
 
