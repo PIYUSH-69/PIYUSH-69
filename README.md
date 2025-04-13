@@ -1,10 +1,8 @@
 <h1 align="center">Hi , I'm PIYUSH DALVI</h1>
-<h3 align="center">ANDROID DEVELOPER || UI/UX DESIGNER</h3>
+<h3 align="center">SOFTWARE DEVELOPER </h3>
 <img align="right" alt="Coding" height="200" width="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExenJibHRiZ29xNGoxNXJla3djZTB2dXI1OG42eTZlNHZtNjJqYXJ5MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/z0hUv6bpBWUUOtShDf/giphy.gif">
 
 
-
-- 🌱 I’m currently learning **Android development**
 
 - 📫 How to reach me - dalvi.piyu@gmail.com
 
